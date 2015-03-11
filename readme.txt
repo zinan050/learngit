@@ -1,5 +1,5 @@
 
-Git is free software distributed under the GPL.
+Git is free software distributed under my advice.
 zinan050 is a hero .
 jisji
 add a line again
